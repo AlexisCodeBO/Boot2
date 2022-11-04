@@ -1,0 +1,4 @@
+<audio src="audio/bonitajb.mp3"></audio>
+		<audio src="audio/inolvidablejb.mp3"></audio>
+		<audio src="audio/personaljb.mp3"></audio>
+		<audio src="audio/sensualidadjb.mp3"></audio>
